@@ -1,0 +1,34 @@
+{
+  "icon": {
+    "id": "tempad:workstation"
+  },
+  "tab": "htimes:htimes",
+  "x": -2,
+  "y": -7,
+  "pages": [
+    {
+      "type": "datanessence:item",
+      "item": {
+        "id": "tempad:workstation"
+      },
+      "text": {
+        "translate": "htimes.data_tablet.pages.workstation.page.text"
+      }
+    },
+    {
+      "type": "datanessence:crafting",
+      "recipes": [
+        "tempad:workstation"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "htimes.data_tablet.pages.workstation.name"
+  },
+  "flavor": {
+    "translate": "htimes.data_tablet.pages.workstation.flavor"
+  },
+  "parents": [
+    "htimes:htimes/tempad"
+  ]
+}

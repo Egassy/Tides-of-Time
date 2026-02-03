@@ -1,0 +1,40 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license = 'Unlicense'
+issueTrackerURL="https://github.com/Egassy/Time-and-Essence/issues"
+
+[[mods]]
+modId="htimes"
+version="1.0.3"
+displayName="Time and Essence" 
+displayURL="https://modrinth.com/project/htimes-addon"
+logoFile="htimes_logo.gif"
+credits="The Data & Essence and Terrarium teams, for making DnE and Tempad respectively"
+authors="Egassy"
+description="Subsuming Tempad into Data and Essence"
+
+[[dependencies.htimes]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.htimes]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.htimes]]
+modId="datanessence"
+versionRange="[1.0.0-alpha-song_of_the_factory2,]"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.htimes]]
+modId="tempad"
+versionRange="[3.0.0,]"
+ordering="AFTER"
+side="BOTH"

@@ -1,0 +1,10 @@
+{
+  "icon": {
+    "id": "tempad:workstation"
+  },
+  "tier": 1,
+  "name": {
+    "translate": "htimes.data_tablet.pages.workstation.name"
+  },
+  "entry": "htimes:htimes/workstation"
+}

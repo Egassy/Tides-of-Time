@@ -1,0 +1,10 @@
+{
+  "icon": {
+    "id": "tempad:screening_device"
+  },
+  "tier": 2,
+  "name": {
+    "translate": "htimes.data_tablet.pages.screening_device.name"
+  },
+  "entry": "htimes:htimes/screening_device"
+}

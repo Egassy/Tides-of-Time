@@ -1,0 +1,28 @@
+{
+  "icon": {
+    "id": "tempad:location_card"
+  },
+  "tab": "htimes:htimes",
+  "x": 3,
+  "y": 2,
+  "pages": [
+    {
+      "type": "datanessence:crafting",
+	  "text": {
+        "translate": "htimes.data_tablet.pages.location_card_other.page.text"
+      },
+      "recipes": [
+		"tempad:card_expensive"
+      ]
+    }
+  ],
+  "name": {
+    "translate": "htimes.data_tablet.pages.location_card_other.name"
+  },
+  "parents": [
+    "htimes:htimes/chronite",
+	"htimes:htimes/card_cheap",
+	"datanessence:machine/metal_shaper"
+	
+  ]
+}

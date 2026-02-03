@@ -1,0 +1,38 @@
+{
+  "icon": {
+    "id": "tempad:metronome"
+  },
+  "tab": "htimes:htimes",
+  "x": 1,
+  "y": -6,
+  "pages": [
+    {
+      "type": "datanessence:item",
+      "item": {
+        "id": "tempad:metronome"
+      },
+      "text": {
+        "translate": "htimes.data_tablet.pages.metronome.page1.text"
+      }
+    },
+    {
+      "type": "datanessence:crafting",
+      "recipes": [
+        "tempad:metronome"
+      ],
+      "text": {
+        "translate": "htimes.data_tablet.pages.metronome.page2.text"
+      }
+    }
+  ],
+  "name": {
+    "translate": "htimes.data_tablet.pages.metronome.name"
+  },
+  "flavor": {
+    "translate": "htimes.data_tablet.pages.metronome.flavor"
+  },
+  "parents": [
+	"htimes:htimes/chronon_battery",
+	"htimes:htimes/chronometer"
+  ]
+}

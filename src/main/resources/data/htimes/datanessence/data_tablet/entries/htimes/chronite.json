@@ -1,0 +1,38 @@
+{
+  "icon": {
+    "id": "tempad:time_steel"
+  },
+  "tab": "htimes:htimes",
+  "x": 0,
+  "y": -2,
+  "pages": [
+    {
+      "type": "datanessence:item",
+      "item": {
+        "id": "tempad:time_steel"
+      },
+      "text": {
+        "translate": "htimes.data_tablet.pages.chronite.page1.text"
+      }
+    },
+    {
+      "type": "datanessence:crafting",
+      "recipes": [
+        "tempad:time_steel_shapeless",
+		"tempad:time_steel_shaped"
+      ],
+      "text": {
+        "translate": "htimes.data_tablet.pages.chronite.page2.text"
+      }
+    }
+  ],
+  "name": {
+    "translate": "htimes.data_tablet.pages.chronite.name"
+  },
+  "flavor": {
+    "translate": "htimes.data_tablet.pages.chronite.flavor"
+  },
+  "parents": [
+    "htimes:htimes/knowledge_projector"
+  ]
+}

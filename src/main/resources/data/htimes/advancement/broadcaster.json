@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "tempad:location_broadcaster"
+    },
+    "title": {
+      "translate": "htimes.advancement.broadcasting.title"
+    },
+    "description": {
+      "translate": "htimes.advancement.broadcasting.description"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "htimes:tempad",
+  "criteria": {
+    "get_broadcaster": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "tempad:location_broadcaster"
+          }
+        ]
+      }
+    }
+  }
+}
