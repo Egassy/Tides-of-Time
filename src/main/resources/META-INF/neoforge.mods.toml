@@ -29,12 +29,12 @@ side="BOTH"
 
 [[dependencies.htimes]]
 modId="datanessence"
-versionRange="[1.0.0-alpha-song_of_the_factory2,]"
+versionRange="[${halcyon_version},)"
 ordering="AFTER"
 side="BOTH"
 
 [[dependencies.htimes]]
 modId="tempad"
-versionRange="[3.0.0,]"
+versionRange="[${tempad_version},)"
 ordering="AFTER"
 side="BOTH"
