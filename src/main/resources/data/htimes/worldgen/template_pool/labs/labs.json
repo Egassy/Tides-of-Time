@@ -1,5 +1,4 @@
 {
-  "name": "chronospatial_labs",
   "fallback": "minecraft:empty",
   "elements": [
     {
@@ -7,7 +6,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "htimes:chronospatial_labs",
+        "location": "htimes:labs/labs",
         "processors": "minecraft:empty",
         "override_liquid_settings": "ignore_waterlogging"
       }
