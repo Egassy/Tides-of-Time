@@ -1,0 +1,12 @@
+{
+  "add": [
+	"tot:tier_1/knowledge_projector",
+	"tot:tier_1/timedoor_marker",
+	"tot:tier_1/timedoor_projector",
+	"tot:tier_1/card_cheap",
+	"tot:tier_1/card_expensive",
+	"tot:tier_2/chronomark"
+  ],
+  "remove": [
+  ]
+}

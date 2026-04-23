@@ -1,0 +1,13 @@
+{
+  "add": [
+	"tot:tier_1/knowledge_projector",
+	"tot:tier_2/chronite",
+	"tot:tier_2/chrono_reverter",
+	"tot:tier_2/tempad",
+	"tot:tier_2/workstation",
+	"tot:tier_2/enhance_spools"
+	
+  ],
+  "remove": [
+  ]
+}

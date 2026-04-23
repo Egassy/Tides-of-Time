@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "tempad:time_steel"
+    },
+    "title": {
+      "translate": "tot.advancement.chronite.title"
+    },
+    "description": {
+      "translate": "tot.advancement.chronite.description"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "tot:find_labs",
+  "criteria": {
+    "get_chronite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "tempad:time_steel",
+            "count": 3
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "loot": [],
+    "experience": 55
+  }
+}

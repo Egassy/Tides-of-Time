@@ -1,0 +1,10 @@
+{
+  "icon": {
+    "id": "tempad:location_card"
+  },
+  "tier": 1,
+  "name": {
+    "translate": "tot.data_tablet.pages.location_card.name"
+  },
+  "entry": "tot:tot/card_cheap"
+}
