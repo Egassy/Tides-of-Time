@@ -3,7 +3,7 @@
   "essenceCost": {
     "datanessence:essence": 50
   },
-  "entry": "htimes:htimes/card_cheap",
+  "entry": "tot:tot/card_cheap",
   "pattern": [
     " E",
     "C "

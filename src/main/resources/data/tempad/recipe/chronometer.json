@@ -3,7 +3,7 @@
   "essenceCost": {
     "datanessence:essence": 300
   },
-  "entry": "htimes:htimes/chronometer",
+  "entry": "tot:tot/chronometer",
   "pattern": [
     " P ",
     "TCT",

@@ -3,7 +3,7 @@
   "essenceCost": {
     "datanessence:essence": 150
   },
-  "entry": "htimes:htimes/screening_device",
+  "entry": "tot:tot/screening_device",
   "pattern": [
     " T ",
     "PLM",

@@ -1,9 +1,0 @@
-{
-  "add": [
-	"htimes:tier_1/knowledge_projector",
-	"htimes:tier_1/location_broadcaster",
-	"htimes:tier_2/screening_device"
-  ],
-  "remove": [
-  ]
-}

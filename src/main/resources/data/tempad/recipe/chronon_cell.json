@@ -3,7 +3,7 @@
   "essenceCost": {
     "datanessence:essence": 100
   },
-  "entry": "htimes:htimes/chronon_cell",
+  "entry": "tot:tot/chronon_cell",
   "pattern": [
     "III",
     "IBP",

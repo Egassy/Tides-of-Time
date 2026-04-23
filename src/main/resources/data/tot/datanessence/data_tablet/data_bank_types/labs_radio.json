@@ -1,0 +1,9 @@
+{
+  "add": [
+	"tot:tier_1/knowledge_projector",
+	"tot:tier_1/location_broadcaster",
+	"tot:tier_2/screening_device"
+  ],
+  "remove": [
+  ]
+}

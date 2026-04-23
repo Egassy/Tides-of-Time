@@ -3,7 +3,7 @@
   "essenceCost": {
     "datanessence:essence": 1000
   },
-  "entry": "htimes:htimes/tempad",
+  "entry": "tot:tot/tempad",
   "pattern": [
     "TCT",
     "BPL",

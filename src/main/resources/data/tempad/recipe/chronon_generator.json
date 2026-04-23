@@ -3,7 +3,7 @@
   "essenceCost": {
     "datanessence:essence": 150
   },
-  "entry": "htimes:htimes/chronon_generator",
+  "entry": "tot:tot/chronon_generator",
   "pattern": [
     "NII",
     "LCP",

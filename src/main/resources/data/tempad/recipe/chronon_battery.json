@@ -3,7 +3,7 @@
   "essenceCost": {
     "datanessence:essence": 200
   },
-  "entry": "htimes:htimes/chronon_battery",
+  "entry": "tot:tot/chronon_battery",
   "pattern": [
     "TPT",
     "PCP",

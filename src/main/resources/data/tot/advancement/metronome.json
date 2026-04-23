@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "tempad:metronome"
+    },
+    "title": {
+      "translate": "tot.advancement.metronome.title"
+    },
+    "description": {
+      "translate": "tot.advancement.metronome.description"
+    },
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "tot:advanced_chronon_stuff",
+  "criteria": {
+    "get_metronome": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "tempad:metronome"
+          }
+        ]
+      }
+    }
+  }
+}

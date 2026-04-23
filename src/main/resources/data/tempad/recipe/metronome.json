@@ -3,7 +3,7 @@
   "essenceCost": {
     "datanessence:essence": 500
   },
-  "entry": "htimes:htimes/metronome",
+  "entry": "tot:tot/metronome",
   "pattern": [
     "TBT",
     "EGE",

@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "tempad:tempad"
+    },
+    "title": {
+      "translate": "tot.advancement.root.title"
+    },
+    "description": {
+      "translate": "tot.advancement.root.description"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "tot:textures/block/chronite_block.png"
+  },
+  "rewards": {},
+  "criteria": {
+    "instant_granted": {
+      "trigger": "minecraft:tick",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "instant_granted"
+    ]
+  ]
+}

@@ -3,7 +3,7 @@
   "essenceCost": {
     "datanessence:essence": 150
   },
-  "entry": "htimes:htimes/chrono_reverter",
+  "entry": "tot:tot/chrono_reverter",
   "pattern": [
     "TE ",
     "BMT",

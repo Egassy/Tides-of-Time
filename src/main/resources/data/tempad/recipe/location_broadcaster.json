@@ -3,7 +3,7 @@
   "essenceCost": {
     "datanessence:essence": 100
   },
-  "entry": "htimes:htimes/location_broadcaster",
+  "entry": "tot:tot/location_broadcaster",
   "pattern": [
     " IM",
     "ILI",

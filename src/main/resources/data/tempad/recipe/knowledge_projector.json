@@ -3,7 +3,7 @@
   "essenceCost": {
     "datanessence:essence": 0
   },
-  "entry": "htimes:htimes/knowledge_projector",
+  "entry": "tot:tot/knowledge_projector",
   "pattern": [
     "P",
     "D",

@@ -3,7 +3,7 @@
   "essenceCost": {
     "datanessence:essence": 350
   },
-  "entry": "htimes:htimes/workstation",
+  "entry": "tot:tot/workstation",
   "pattern": [
     "CCI",
     "CLP",

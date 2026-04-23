@@ -1,0 +1,12 @@
+{
+  "add": [
+	"tot:tier_1/knowledge_projector",
+	"tot:tier_1/chronon_cell",
+	"tot:tier_1/chronon_generator",
+	"tot:tier_2/chronometer",
+	"tot:tier_2/chronon_battery",
+	"tot:tier_2/metronome"
+  ],
+  "remove": [
+  ]
+}

@@ -3,7 +3,7 @@
   "essenceCost": {
     "datanessence:essence": 300
   },
-  "entry": "htimes:htimes/timedoor_projector",
+  "entry": "tot:tot/timedoor_projector",
   "pattern": [
     "PP ",
     "GWC",

@@ -3,7 +3,7 @@
   "essenceCost": {
     "datanessence:essence": 200
   },
-  "entry": "htimes:htimes/timedoor_marker",
+  "entry": "tot:tot/timedoor_marker",
   "pattern": [
     "CLC",
     "TMT"

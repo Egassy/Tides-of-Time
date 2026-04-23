@@ -3,7 +3,7 @@
   "essenceCost": {
     "datanessence:essence": 50
   },
-  "entry": "htimes:htimes/enhance_spools",
+  "entry": "tot:tot/enhance_spools",
   "pattern": [
     "PDP",
     "WKW",
