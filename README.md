@@ -2,7 +2,7 @@
 
 # Tides of Time
 
-Tides of Time (**ToT**) is a lowcode/codeless "mod" that aims to both be an example of the flexibilty of DnE's data-driven progression and guidebook, and to balance out Tempad's rather... *interesting* recipe choices with Halcyon progression and materials.
+Tides of Time (**ToT**) is a lowcode/codeless "mod" that aims to both be an example of the flexibilty of Halcyon's data-driven progression and guidebook, and to balance out Tempad's rather... *interesting* recipe choices with Halcyon progression and materials.
 
 All of this, of course, requires **Data**. **Data** which is found in Ancient structures, buildings forgotten by the world...
 
